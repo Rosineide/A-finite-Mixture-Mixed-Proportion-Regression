@@ -1,1 +1,1 @@
-# Classification Problems in Longitudinal Voting data
+# A finite Mixture Mixed Proportion Regression Model for Classification Problems in Longitudinal Voting data
